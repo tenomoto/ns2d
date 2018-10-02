@@ -1,5 +1,6 @@
 # はじめに
 
+* [Navier-Stokes-2D.ipynb](http://nbviewer.jupyter.org/github/tenomoto/ns2d/blob/master/Navier-Stokes-2D.ipynb)
 
 [Software Design 2018年10月号](https://gihyo.jp/magazine/SD/archive/2018/201810)掲載『平林万能IT技術研究所 地球のどこでも「この瞬間に街を流れる風」を可視化せよ！』では，建物の周りの風を2次元Navier-Stokes方程式を解いて計算している。手順は以下の通りである。
 
